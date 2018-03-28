@@ -16,6 +16,10 @@
 # burger - Heroku Jaws Info
 <img width="1253" alt="heroku jaws" src="https://user-images.githubusercontent.com/34402745/38009975-c1c6c01c-320b-11e8-99b6-391872b959bf.png">
 
+# burger - connected to sqlpro initial connection page / access denied when adding to the db
+<img width="1090" alt="db connection no access" src="https://user-images.githubusercontent.com/34402745/38010754-55619a60-320f-11e8-9e56-ea68440eccbb.png">
+
+
 # burger - Inital Launch
 <img width="1268" alt="initial" src="https://user-images.githubusercontent.com/34402745/38009976-c1db0004-320b-11e8-9dd3-ead86fcfbf36.png">
 
