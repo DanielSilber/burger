@@ -3,6 +3,10 @@
 # burger - Heroku github connect
 <img width="1346" alt="git connect" src="https://user-images.githubusercontent.com/34402745/38010210-dc0fe2ea-320c-11e8-8374-feb2752c57a7.png">
 
+# burger - Heroku jaws add on with deployed app 
+<img width="1268" alt="jaws add on" src="https://user-images.githubusercontent.com/34402745/38009980-c22f3426-320b-11e8-9a91-d048939546db.png">
+
+
 # burger - Heroku / no errors in deployment
 <img width="904" alt="deploy success" src="https://user-images.githubusercontent.com/34402745/38010222-e49aac4c-320c-11e8-8098-7697ecd4d57c.png">
 
@@ -24,5 +28,3 @@
 # burger - Devoured burger display 
 <img width="1253" alt="devour" src="https://user-images.githubusercontent.com/34402745/38009979-c21a0358-320b-11e8-94a5-a947e4dfd3f2.png">
 
-# burger - Heroku jaws add on with deployed app 
-<img width="1268" alt="jaws add on" src="https://user-images.githubusercontent.com/34402745/38009980-c22f3426-320b-11e8-9a91-d048939546db.png">
